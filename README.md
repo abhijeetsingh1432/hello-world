@@ -1,4 +1,4 @@
 # hello-world
-Just a new repository
+Just a new repository.
 Hello friends!!
 Welcome to my first Blog.
